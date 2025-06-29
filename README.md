@@ -1,5 +1,3 @@
-# RL-assignment-
-RL assignment  Spring 2025
 # 🎓 Multi-Armed Bandit Assignment – README
 
 This project includes Python implementations and experiments for analyzing **multi-armed bandit algorithms** under stationary and non-stationary settings.
